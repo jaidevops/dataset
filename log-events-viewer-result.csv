@@ -1,0 +1,172 @@
+timestamp,message
+1758060316433,DEBUG: Completed mapping for 'Fraud and Error Detection' - 323 capability mappings
+1758060321435,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note Without Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060336438,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note With Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060356443,"DEBUG: Error processing batch for 'Invoice Receipt, Verification & Posting Management': Extra data: line 64 column 1 (char 2196)"
+1758060360444,"DEBUG: Error processing batch for 'Manage Self Billing for Consignment withdrawal': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060363445,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note Without Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060369446,"DEBUG: Error processing batch for 'Invoice to Pay - Risk Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060369446,DEBUG: Error processing batch for 'Manage Invoice Receipt': Extra data: line 64 column 1 (char 2071)
+1758060387450,"DEBUG: Error processing batch for 'Manage Down Payment': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060388451,"DEBUG: Error processing batch for 'Manage Verification and Posting of Debit Note to Supplier': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060389451,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note With Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060415457,"DEBUG: Error processing batch for 'Manage Invoice Verification & Posting With Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060440462,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note Without Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060454466,"DEBUG: Error processing batch for 'Manage Verification and Posting after Payment': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060459467,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note With Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060463468,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note With Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060465468,"DEBUG: Error processing batch for 'Manage Invoice Verification & Posting With technical Goods receipt': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060474471,"DEBUG: Error processing batch for 'Manage Invoice Verification & Posting With technical Goods receipt': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060476471,"DEBUG: Error processing batch for 'Manage Detective Controls': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060487474,DEBUG: Error processing batch for 'Manage Invoice Verification & Posting With Order': Extra data: line 59 column 1 (char 1842)
+1758060493475,DEBUG: Completed mapping for 'Manage Verification & Posting of Credit Note With Order' - 274 capability mappings
+1758060496476,"DEBUG: Error processing batch for 'Manage Invoice Receipt': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060500477,"DEBUG: Error processing batch for 'Invoice Receipt, Verification & Posting Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060515480,"DEBUG: Error processing batch for 'Manage Invoice Receipt': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060528483,"DEBUG: Completed mapping for 'Invoice Receipt, Verification & Posting Management' - 316 capability mappings"
+1758060549488,DEBUG: Completed mapping for 'Manage Invoice Verification & Posting With Order' - 285 capability mappings
+1758060552489,DEBUG: Completed mapping for 'Manage Invoice Receipt' - 287 capability mappings
+1758060552489,"DEBUG: Error processing batch for 'Manage Supplier Payment Run - Automatic': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060567492,DEBUG: Error processing batch for 'Supplier Payment Run Management': Extra data: line 81 column 1 (char 2429)
+1758060568493,DEBUG: Completed mapping for 'Manage Invoice Verification & Posting With technical Goods receipt' - 275 capability mappings
+1758060568493,"DEBUG: Error processing batch for 'Manage Supplier Payment Run - Automatic': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060572494,"DEBUG: Error processing batch for 'Manage Verification and Posting of Debit Note to Supplier': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060572494,"DEBUG: Error processing batch for 'Manage Monitoring Procedures': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060594499,"DEBUG: Error processing batch for 'Manage Self Billing based on Good receipt': Expecting ',' delimiter: line 56 column 115 (char 2019)"
+1758060602501,"DEBUG: Error processing batch for 'Manage Manual Payment - Supplier': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060612503,DEBUG: Error processing batch for 'Manage Verification and Posting of Debit Note to Supplier': Extra data: line 63 column 1 (char 2078)
+1758060615504,"DEBUG: Error processing batch for 'Invoice to Pay - Risk Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060615504,DEBUG: Error processing batch for 'Manage Invoice Verification & Posting Without Order': Extra data: line 64 column 1 (char 2232)
+1758060636509,"DEBUG: Error processing batch for 'Manage Verification and mass postings of special business': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060640510,"DEBUG: Error processing batch for 'Manage Verification & Posting of Credit Note Without Order': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060642511,"DEBUG: Error processing batch for 'Manage Supplier Payment Run - Automatic': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060671517,"DEBUG: Error processing batch for 'Manage Self-assessment': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060687521,DEBUG: Completed mapping for 'Manage Self Billing for Consignment withdrawal' - 292 capability mappings
+1758060695523,"DEBUG: Error processing batch for 'Manage Self Billing based on Good receipt': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060701524,DEBUG: Error processing batch for 'Manage Detective Controls': Extra data: line 64 column 1 (char 2216)
+1758060717528,"DEBUG: Error processing batch for 'Invoice to Pay - Risk Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060720529,"DEBUG: Error processing batch for 'Manage Monitoring Procedures': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060724530,"DEBUG: Error processing batch for 'Manage Supplier Payment Run - Automatic': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060725530,"DEBUG: Error processing batch for 'Manage Verification and Posting of Debit Note to Supplier': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060735532,DEBUG: Completed mapping for 'Manage Self Billing based on Good receipt' - 291 capability mappings
+1758060745535,"DEBUG: Error processing batch for 'Manage Self-assessment': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758060777542,DEBUG: Completed mapping for 'Manage Verification & Posting of Credit Note Without Order ' - 266 capability mappings
+1758060802548,DEBUG: Error processing batch for 'Manage Verification and Posting after Payment': Extra data: line 74 column 1 (char 2257)
+1758060804549,DEBUG: Completed mapping for 'Manage Invoice Verification & Posting Without Order' - 303 capability mappings
+1758060829554,DEBUG: Error processing batch for 'Manage Verification and mass postings of special business': Extra data: line 63 column 1 (char 2390)
+1758060844558,DEBUG: Error processing batch for 'Invoice to Pay - Risk Management': Extra data: line 65 column 1 (char 2099)
+1758060924576,DEBUG: Completed mapping for 'Manage Down Payment' - 300 capability mappings
+1758061033600,DEBUG: Error processing batch for 'Manage GR/IR Clearing': Extra data: line 57 column 1 (char 1822)
+1758061060606,DEBUG: Error processing batch for 'Manage Monitoring Procedures': Extra data: line 64 column 1 (char 2560)
+1758061109617,DEBUG: Completed mapping for 'Manage Verification and Posting of Debit Note to Supplier' - 277 capability mappings
+1758061113618,DEBUG: Error processing batch for 'Manage GR/IR Clearing': Extra data: line 71 column 1 (char 2309)
+1758061125621,DEBUG: Completed mapping for 'Manage Verification and Posting after Payment' - 264 capability mappings
+1758061196637,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': Extra data: line 48 column 1 (char 1452)
+1758061216642,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': Extra data: line 57 column 1 (char 1698)
+1758061226644,DEBUG: Completed mapping for 'Manage Recurring payment' - 325 capability mappings
+1758061228645,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': Extra data: line 57 column 1 (char 1747)
+1758061268654,DEBUG: Completed mapping for 'Invoice to Pay - Risk Management' - 337 capability mappings
+1758061269654,DEBUG: Completed mapping for 'Manage Verification and mass postings of special business' - 277 capability mappings
+1758061275656,DEBUG: Error processing batch for 'Manage Verification and posting Money return': Extra data: line 65 column 1 (char 2131)
+1758061297661,DEBUG: Completed mapping for 'Manage Detective Controls' - 279 capability mappings
+1758061474699,DEBUG: Error processing batch for 'Manage Creditor Reclassification': Extra data: line 60 column 1 (char 1700)
+1758061499704,DEBUG: Completed mapping for 'Manage Monitoring Procedures' - 292 capability mappings
+1758061551716,DEBUG: Completed mapping for 'Manage Self-assessment' - 285 capability mappings
+1758061554717,DEBUG: Completed mapping for 'Supplier Payment Run Management' - 318 capability mappings
+1758061578722,"DEBUG: Error processing batch for 'Manage GR/IR Clearing': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061585723,DEBUG: Completed mapping for 'Manage Supplier Payment Run - Automatic' - 283 capability mappings
+1758061597726,DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': Extra data: line 60 column 1 (char 1780)
+1758061608729,"DEBUG: Error processing batch for 'Manage AP Write Off': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061624732,"DEBUG: Error processing batch for 'Manage Foreign Currency Revaluation - for Vendor Open Items': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061627733,DEBUG: Completed mapping for 'Manage Manual Payment - Supplier' - 317 capability mappings
+1758061654739,"DEBUG: Error processing batch for 'Manage GR/IR Reclassification': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061665742,"DEBUG: Error processing batch for 'Invoice to Pay - Supplier Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061669743,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': Extra data: line 52 column 1 (char 1679)
+1758061671743,"DEBUG: Error processing batch for 'Manage Supplier Balance Confirmation': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061673744,"DEBUG: Error processing batch for 'Manage Creditor Reclassification': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061674744,DEBUG: Error processing batch for 'Manage Accrued Liabilities': Extra data: line 60 column 1 (char 1859)
+1758061685747,"DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061700750,"DEBUG: Error processing batch for 'Manage Creditor Reclassification': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061718754,"DEBUG: Error processing batch for 'Manage Document Change': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061733757,DEBUG: Completed mapping for 'Manage Verification and posting Money return' - 293 capability mappings
+1758061743760,DEBUG: Error processing batch for 'Accounts Payable Closing & Reporting': Extra data: line 70 column 1 (char 2185)
+1758061756763,DEBUG: Error processing batch for 'Manage Creditor Reclassification': Extra data: line 53 column 1 (char 1662)
+1758061771766,DEBUG: Completed mapping for 'Accounts Payable Closing & Reporting' - 328 capability mappings
+1758061774767,"DEBUG: Error processing batch for 'Invoice to Pay - Supplier Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061777768,"DEBUG: Error processing batch for 'Manage Supplier Balance Confirmation': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061781769,DEBUG: Error processing batch for 'Manage Accrued Liabilities': Extra data: line 61 column 1 (char 2083)
+1758061794771,DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ServiceUnavailableException) when calling the InvokeModel operation: Bedrock is unable to process your request.
+1758061796772,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': An error occurred (ServiceUnavailableException) when calling the InvokeModel operation: Bedrock is unable to process your request.
+1758061802773,"DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061806774,"DEBUG: Error processing batch for 'Manage AP Write Off': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061814776,"DEBUG: Error processing batch for 'Manage Supplier Balance Confirmation': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061821778,DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': Extra data: line 64 column 1 (char 2281)
+1758061829780,DEBUG: Error processing batch for 'Invoice to Pay - Supplier Management': Extra data: line 74 column 1 (char 2435)
+1758061831780,DEBUG: Error processing batch for 'Manage Supplier Balance Confirmation': Extra data: line 59 column 1 (char 1865)
+1758061853785,DEBUG: Completed mapping for 'Manage Accrued Liabilities' - 305 capability mappings
+1758061859787,"DEBUG: Error processing batch for 'Manage Document Change': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061893794,DEBUG: Completed mapping for 'Manage Supplier Balance Confirmation' - 295 capability mappings
+1758061897795,DEBUG: Error processing batch for 'Manage Foreign Currency Revaluation - for Vendor Open Items': Extra data: line 52 column 1 (char 1897)
+1758061908798,DEBUG: Error processing batch for 'Manage Tax Topics (Withholding & Adjustments)': Extra data: line 60 column 1 (char 2142)
+1758061912799,DEBUG: Completed mapping for 'Manage GR/IR Clearing' - 292 capability mappings
+1758061939805,"DEBUG: Error processing batch for 'Manage Foreign Currency Revaluation - for Vendor Open Items': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061943806,"DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061960810,DEBUG: Error processing batch for 'Manage GR/IR Reclassification': Extra data: line 52 column 1 (char 2013)
+1758061969812,"DEBUG: Error processing batch for 'Manage Inter Company Contracts': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758061979814,"DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062014822,"DEBUG: Error processing batch for 'Non Goods Inter Company Charging Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062017823,"DEBUG: Error processing batch for 'Non Goods Inter Company Charging Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062019823,"DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062021824,"DEBUG: Error processing batch for 'Invoice to Pay - Supplier Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062060833,"DEBUG: Error processing batch for 'Manage Supplier Insolvencies': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062077836,DEBUG: Completed mapping for 'Manage GR/IR Reclassification' - 254 capability mappings
+1758062091840,"DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062093840,"DEBUG: Error processing batch for 'Manage Inter Company Contracts': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062102842,"DEBUG: Error processing batch for 'Manage AP Write Off': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062106843,"DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062112845,"DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062126848,"DEBUG: Error processing batch for 'Manage Tax Topics (Withholding & Adjustments)': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062128848,"DEBUG: Error processing batch for 'Manage General Inquiries': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062130849,DEBUG: Completed mapping for 'Manage Creditor Reclassification' - 281 capability mappings
+1758062135850,DEBUG: Error processing batch for 'Manage Accounts Payable Reports & Analytics': Extra data: line 64 column 1 (char 2280)
+1758062142852,"DEBUG: Error processing batch for 'Manage Foreign Currency Revaluation - for Vendor Open Items': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062166857,DEBUG: Error processing batch for 'Manage Document Change': Extra data: line 65 column 1 (char 2182)
+1758062167857,DEBUG: Error processing batch for 'Manage Dunning / Vendor Invoice Inquiry': Extra data: line 52 column 1 (char 1880)
+1758062189862,DEBUG: Completed mapping for 'Manage General Inquiries' - 276 capability mappings
+1758062190862,"DEBUG: Error processing batch for 'Non Goods Inter Company Charging Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062191862,"DEBUG: Error processing batch for 'Non Goods Inter Company Charging Management': An error occurred (ThrottlingException) when calling the InvokeModel operation: Too many requests, please wait before trying again."
+1758062211867,DEBUG: Completed mapping for 'Manage Foreign Currency Revaluation - for Vendor Open Items' - 264 capability mappings
+1758062215868,DEBUG: Completed mapping for 'Manage Accounts Payable Reports & Analytics' - 279 capability mappings
+1758062269879,DEBUG: Completed mapping for 'Invoice to Pay - Supplier Management' - 325 capability mappings
+1758062298886,DEBUG: Error processing batch for 'Manage Document Change': Extra data: line 60 column 1 (char 1857)
+1758062399907,DEBUG: Completed mapping for 'Manage Dunning / Vendor Invoice Inquiry' - 299 capability mappings
+1758062401908,DEBUG: Error processing batch for 'Manage Tax Topics (Withholding & Adjustments)': Extra data: line 61 column 1 (char 1896)
+1758062415911,DEBUG: Error processing batch for 'Manage Tax Topics (Withholding & Adjustments)': Extra data: line 59 column 1 (char 1913)
+1758062419912,DEBUG: Error processing batch for 'Manage Supplier Insolvencies': Extra data: line 52 column 1 (char 1779)
+1758062423913,DEBUG: Error processing batch for 'Manage Inter Company Contracts': Extra data: line 67 column 1 (char 2324)
+1758062447918,DEBUG: Completed mapping for 'Manage Document Change' - 297 capability mappings
+1758062451919,DEBUG: Completed mapping for 'Manage Tax Topics (Withholding & Adjustments)' - 258 capability mappings
+1758062476924,DEBUG: Completed mapping for 'Manage Archiving Invoice to Pay' - 281 capability mappings
+1758062497929,DEBUG: Completed mapping for 'Manage AP Write Off' - 305 capability mappings
+1758062595950,DEBUG: Completed mapping for 'Non Goods Inter Company Charging Management' - 292 capability mappings
+1758062599951,DEBUG: Completed mapping for 'Manage Supplier Insolvencies' - 281 capability mappings
+1758062681968,DEBUG: Completed mapping for 'Manage Intercompany Upstream Charging Process' - 310 capability mappings
+1758062730979,DEBUG: Completed mapping for 'Manage Inter Company Contracts' - 318 capability mappings
+1758062730979,"COMPREHENSIVE MAPPING COMPLETED in 112365.0 seconds
+  Total capability-process mappings: 493978
+  Average processing time per mapping: 0.227s"
+1758062731979,DEBUG: 410615 applicable mappings out of 493978 total
+1758062731979,DEBUG: Average confidence score: 87.8
+1758062731979,"2025-09-16 22:45:31,845 - root - INFO - Comprehensive capability mapping completed: 493978 mappings in 112365.0s"
+1758062732980,'"=== MAPPING SUCCESSFUL ==="
+1758062732980,Total mappings created: 493978
+1758062732980,"Applicability breakdown:
+  yes: 321228
+  partial: 89387
+  no: 83362
+  unknown: 1"
+1758062732980,Average confidence score: 87.8%
+1758062806996,"2025-09-16 22:46:46,684 - __main__ - INFO - Exported DataFrame to comprehensive_capability_mapping_{timestamp}.xlsx"
+1758062806996,"2025-09-16 22:46:46,684 - __main__ - INFO - Comprehensive mapping exported to comprehensive_capability_mapping_{timestamp}.xlsx"
+1758062806996,"2025-09-16 22:46:46,684 - __main__ - INFO - ✓ Results exported to comprehensive_capability_mapping_{timestamp}.xlsx"
+1758062806996,"2025-09-16 22:46:46,685 - __main__ - INFO - Processing completed successfully"
